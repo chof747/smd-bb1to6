@@ -1,15 +1,7 @@
-# kicad-project-template
-Template for a KiCad Project 
+## SMD Breakout Board for SOT-23 3, 5 and 6
 
-This project provides an empty KiCad project with all the settings for 
-a JCLPCB project.
+This is a simple breakout board for a breadboard that allows to use a SOT-23 3-6 pin package on a breadboard
 
-The project template is setup for KiCad 7.x
+## Revision History:
+- **v1.0**: Initial version (Produced: 15.10.2023)
 
-## Setup 
-
-run the ```initialize.sh``` script which does the following:
-
-  - Renaming the project files from KiCad
-  - Add the template repository as another upstream
-  - Updating this ReadMe
