@@ -1,0 +1,17 @@
+#Backup Files not needed in repository
+*.*bak
+*-backups
+fp-info-cache
+\#auto_saved_files#
+_autosave-*
+
+#PCB Production and JLCPCB specific files
+jlcpcb/gerber
+jlcpcb/assembly
+jlcpcb/*.zip
+production/
+resources/
+
+
+#Step files of platine
+*.step
